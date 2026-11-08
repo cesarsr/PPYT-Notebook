@@ -1,0 +1,20 @@
+# Archivos compilados y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales (muy importante no subirlos)
+venv/
+env/
+.venv/
+ENV/
+
+# Variables de entorno y contraseñas
+.env
+.env.local
+
+# Archivos de editores y sistemas operativos
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
